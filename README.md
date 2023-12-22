@@ -1,11 +1,11 @@
-Tennis Bets Analysis
-Introduction
+## Tennis Bets Analysis
+**Introduction**
 This project contains an analysis of tennis betting data, exploring trends, correlations, and insights derived from odds movements and match outcomes. The analysis is performed using MySQL queries on the provided dataset.
 
-Project Overview
+**Project Overview**
 The project involves querying and analyzing a dataset containing tennis betting information. Key aspects covered in the analysis include:
 
-General statistics about matches
+## General statistics about matches
 Odds analysis: examining odds fluctuations and correlations
 Variations in implied probabilities and their impact
 Yearly trends in odds and implied probabilities
@@ -14,8 +14,8 @@ Analysis of match cancellations and walkovers
 SQL Analysis
 The SQL queries within this project perform various analyses, including:
 
-Creation of a schema and table for the dataset
-Importing data into the table
+## Creation of a schema and table for the dataset
+**Importing data into the table**
 General analysis, including total matches, cancelled matches, average odds, and more
 Odds analysis: exploring fluctuations, correlations, and variations
 Yearly trends in odds and implied probabilities
