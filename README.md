@@ -31,12 +31,12 @@ Cancelled Matches: Identified 2151 matches as cancelled, constituting 1.6% of to
 
 Odds Movements: Observed significant fluctuations in opening and closing odds for winners and losers.
 
-**Average Odds:**
+## Average Odds:
 Winners: The average opening odds for winners were 3.25 and closing odds were 3.10.
 
 Losers: The average opening odds for losers were 5.72 and closing odds were 5.60.
 
-**Odds Analysis**
+## Odds Analysis
 Fluctuations: Investigated major fluctuations in odds:
 Identified top fluctuations for winners (absolute values):
 Maximum increase: +23
@@ -50,9 +50,9 @@ Winners: Probability shifted upwards in 41% of cases between opening and closing
 
 Losers: Probability shifted downwards in 60% of cases between opening and closing odds.
 
-**Yearly Trends**
+##Yearly Trends
 
-**Trend Analysis:**
+## Trend Analysis:
 Noticed a positive correlation between odds yearly:
 Average opening odds increased from 3.5 in 2016 to 4.8 in 2021 for winners.
 Average opening odds increased from 6.2 in 2016 to 7.5 in 2021 for losers.
