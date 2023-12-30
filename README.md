@@ -53,9 +53,8 @@ Winners: Probability shifted upwards in 41% of cases between opening and closing
 
 Losers: Probability shifted downwards in 60% of cases between opening and closing odds.
 
-##Yearly Trends
 
-## Trend Analysis:
+## Yearly Trend Analysis:
 Noticed a positive correlation between odds yearly:
 
 Average opening odds increased from 3.5 in 2016 to 4.8 in 2021 for winners.
